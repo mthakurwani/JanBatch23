@@ -22,7 +22,7 @@ public class Tim {
                 break;
             default:
                 System.out.println("Wrong input: please try again!");
-        }
+         }
 
 
     }
