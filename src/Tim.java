@@ -10,6 +10,7 @@ public class Tim {
         System.out.println("Please enter 3 for Spanish");
         int input = sc.nextInt();
 
+        
         switch (input){
             case 1:
                 System.out.println("English is selected");
