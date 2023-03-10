@@ -5,6 +5,7 @@ public class Main {
         System.out.println(x);
         System.out.println("Hello world!");
         System.out.println("Helloworld again");
+        System.out.println("Helloworld 3");
         System.out.println ("This is my first code in JAVA");
 
 
